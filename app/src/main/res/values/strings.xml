@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinSimpleWeather</string>
+    <string name="title_activity_add_city_maps">AddCityMapsActivity</string>
+</resources>
